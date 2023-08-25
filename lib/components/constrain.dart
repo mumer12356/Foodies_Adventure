@@ -8,4 +8,6 @@ Color KBlackColor=Colors.black;
 Color BlueColor=Colors.blue;
 Color GreyColor=Colors.grey;
 
+Color OnboardPurple=Color(0xFF5545aa);
+
 const double defaultPadding = 16.0;

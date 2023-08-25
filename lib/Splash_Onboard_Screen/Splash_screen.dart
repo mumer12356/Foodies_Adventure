@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 
-import 'Onboarding_screen.dart';
+import 'On-boarding_screen/Onboarding_screen.dart';
 
 class Splash extends StatefulWidget {
   const Splash({super.key});
